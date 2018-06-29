@@ -1,9 +1,19 @@
 # AdguardSpywareFirstParty Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
-# Last Converted - Mon, 25 Jun 2018 01:31:00 -0400
+# Last Converted - Fri, 29 Jun 2018 06:57:44 -0400
 # Energized - ad.porn.malware blocking.
 
+0.0.0.0 beacon.walmart.ca
+0.0.0.0 stc.oa.zalo.me
+0.0.0.0 oa-stc.zdn.vn
+0.0.0.0 stc.sp.zdn.vn
+0.0.0.0 store-stc.zdn.vn
+0.0.0.0 stats.zaloapp.com
+0.0.0.0 static-ads.zaloapp.com
+0.0.0.0 stc.za.zaloapp.com
+0.0.0.0 log.api.zaloapp.com
+0.0.0.0 stc.store.page.zaloapp.com
 0.0.0.0 geosvc.globalmailer.com
 0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 pix.telekom.de

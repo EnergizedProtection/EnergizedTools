@@ -1,11 +1,12 @@
 # SquidBlacklistAds Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - Mon, 25 Jun 2018 01:31:16 -0400
+# Last Converted - Fri, 29 Jun 2018 06:57:59 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0icep80f.com
 0.0.0.0 0pixl.com
+0.0.0.0 103092804.com
 0.0.0.0 118-oew-181.mktoresp.com
 0.0.0.0 123date.me
 0.0.0.0 12place.com
@@ -66,7 +67,6 @@
 0.0.0.0 888promos.com
 0.0.0.0 8s8.eu
 0.0.0.0 8yxupue8.com
-0.0.0.0 9376ec23d50b1.com
 0.0.0.0 97d73lsi.com
 0.0.0.0 980media.com
 0.0.0.0 99count.com
@@ -76,7 +76,6 @@
 0.0.0.0 a2dfp.net
 0.0.0.0 a2pub.com
 0.0.0.0 a433.com
-0.0.0.0 a4to4.pw
 0.0.0.0 a5a5a.com
 0.0.0.0 aa.agkn.com
 0.0.0.0 aaddzz.com
@@ -177,11 +176,11 @@
 0.0.0.0 adbrook.com
 0.0.0.0 adbuff.com
 0.0.0.0 adbutler.com
-0.0.0.0 adbutler.de
 0.0.0.0 adbuyer3.lycos.com
 0.0.0.0 adbuyer.com
 0.0.0.0 adcade.com
 0.0.0.0 ad.caradisiac.com
+0.0.0.0 adcarem.co
 0.0.0.0 adcash.com
 0.0.0.0 ad.cashdorado.de
 0.0.0.0 adcast.deviantart.com
@@ -310,7 +309,6 @@
 0.0.0.0 adhost.dk
 0.0.0.0 adhref.com
 0.0.0.0 adhub.co.nz
-0.0.0.0 adicate.com
 0.0.0.0 ad.ics-int.com
 0.0.0.0 ad.iinfo.cz
 0.0.0.0 adikteev.com
@@ -426,7 +424,6 @@
 0.0.0.0 admaya.in
 0.0.0.0 admedia.com
 0.0.0.0 ad-media.org
-0.0.0.0 admedia.ro
 0.0.0.0 ad.mediastorm.hu
 0.0.0.0 admedit.net
 0.0.0.0 admedo.com
@@ -551,6 +548,7 @@
 0.0.0.0 ads.20m.es
 0.0.0.0 ads2.brazzers.com
 0.0.0.0 ads2.clearchannel.com
+0.0.0.0 ads2.freebannertrade.com
 0.0.0.0 ads2.jubii.dk
 0.0.0.0 ads2.net-communities.co.uk
 0.0.0.0 ads2.oneplace.com
@@ -593,7 +591,6 @@
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.affiliates-spinit.com
 0.0.0.0 ads.alibaba.com
-0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.altitude-arena.com
 0.0.0.0 ads.alwaysphonesex.com
@@ -631,7 +628,6 @@
 0.0.0.0 ads.bing.com
 0.0.0.0 ads.bisonstack.com
 0.0.0.0 ads.bittorrent.com
-0.0.0.0 ads.blbrd.co
 0.0.0.0 ads.blog.com
 0.0.0.0 ads.bloomberg.com
 0.0.0.0 ads.bluemountain.com
@@ -794,6 +790,7 @@
 0.0.0.0 ads.fortunecity.com
 0.0.0.0 ads.fotosidan.se
 0.0.0.0 ads.foxnetworks.com
+0.0.0.0 ads.freebannertrade.com
 0.0.0.0 ads.freecity.de
 0.0.0.0 ads.friendfinder.com
 0.0.0.0 ads.ft.com
@@ -862,7 +859,6 @@
 0.0.0.0 ads.jubii.dk
 0.0.0.0 ads.justhungry.com
 0.0.0.0 ads.kaktuz.net
-0.0.0.0 adskape.ru
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 ads.kelbymediagroup.com
 0.0.0.0 ads.kelbyone.com
@@ -954,7 +950,6 @@
 0.0.0.0 ads.planet.nl
 0.0.0.0 ads.pni.com
 0.0.0.0 ads.pof.com
-0.0.0.0 ads.pokerhuis.com
 0.0.0.0 adsponse.de
 0.0.0.0 ad-sponsor.com
 0.0.0.0 ads.pornerbros.com
@@ -1389,6 +1384,7 @@
 0.0.0.0 a.raasnet.com
 0.0.0.0 arcadebannerexchange.org
 0.0.0.0 arcadebanners.com
+0.0.0.0 arcadebe.com
 0.0.0.0 ard.xxxblackbook.com
 0.0.0.0 areasnap.com
 0.0.0.0 arecio.work
@@ -1553,7 +1549,6 @@
 0.0.0.0 banniere.reussissonsensemble.fr
 0.0.0.0 bans.adserver.co.il
 0.0.0.0 bans.bride.ru
-0.0.0.0 b.aol.com
 0.0.0.0 baronsoffers.com
 0.0.0.0 basebanner.com
 0.0.0.0 baypops.com
@@ -1573,7 +1568,6 @@
 0.0.0.0 belstat.nl
 0.0.0.0 belvertising.be
 0.0.0.0 belwrite.com
-0.0.0.0 b.engadget.com
 0.0.0.0 bepolite.eu
 0.0.0.0 beringmedia.com
 0.0.0.0 bestarmour4u.work
@@ -1935,7 +1929,6 @@
 0.0.0.0 cpmleader.com
 0.0.0.0 cpmmedia.net
 0.0.0.0 cpmrocket.com
-0.0.0.0 cpmtree.com
 0.0.0.0 cpuim.com
 0.0.0.0 cpulaptop.com
 0.0.0.0 cpvads.com
@@ -2326,7 +2319,6 @@
 0.0.0.0 gourmetads.com
 0.0.0.0 gp.dejanews.com
 0.0.0.0 grabo.bg
-0.0.0.0 grafstat.ro
 0.0.0.0 grapeshot.co.uk
 0.0.0.0 gratisnetwork.com
 0.0.0.0 greenads.org
@@ -2592,7 +2584,6 @@
 0.0.0.0 joetec.net
 0.0.0.0 joytocash.com
 0.0.0.0 jque.net
-0.0.0.0 js.cdn.ac
 0.0.0.0 jscount.com
 0.0.0.0 jsretra.com
 0.0.0.0 jssearch.net
@@ -2836,6 +2827,7 @@
 0.0.0.0 mediaver.com
 0.0.0.0 mediax.angloinfo.com
 0.0.0.0 mediaz.angloinfo.com
+0.0.0.0 medio.com
 0.0.0.0 medleyads.com
 0.0.0.0 medyagundem.com
 0.0.0.0 medyanet.net
@@ -3006,7 +2998,6 @@
 0.0.0.0 netshelter.net
 0.0.0.0 netsolads.com
 0.0.0.0 networkplay.in
-0.0.0.0 networkxi.com
 0.0.0.0 networld.hk
 0.0.0.0 neudesicmediagroup.com
 0.0.0.0 new17write.com
@@ -3106,7 +3097,6 @@
 0.0.0.0 online-adnetwork.com
 0.0.0.0 onlinecash.com
 0.0.0.0 online-media24.de
-0.0.0.0 onlinerewardcenter.com
 0.0.0.0 onlyalad.net
 0.0.0.0 on-mobi.com
 0.0.0.0 onrampadvertising.com
@@ -3250,7 +3240,6 @@
 0.0.0.0 plexop.net
 0.0.0.0 p.liadm.com
 0.0.0.0 plista.com
-0.0.0.0 pljiuwanle.download
 0.0.0.0 plocap.com
 0.0.0.0 plugerr.com
 0.0.0.0 plugs.co
@@ -3445,6 +3434,7 @@
 0.0.0.0 redirectpopads.com
 0.0.0.0 redmas.com
 0.0.0.0 reduxmedia.com
+0.0.0.0 reduxmediagroup.com
 0.0.0.0 reedbusiness.com
 0.0.0.0 reelcentric.com
 0.0.0.0 referback.com
@@ -3465,6 +3455,8 @@
 0.0.0.0 relytec.com
 0.0.0.0 remintrex.com
 0.0.0.0 reople.co.kr
+0.0.0.0 replase.ga
+0.0.0.0 replase.ml
 0.0.0.0 republika.onet.pl
 0.0.0.0 resonance.pk
 0.0.0.0 resultlinks.com
@@ -3719,6 +3711,7 @@
 0.0.0.0 ssl-services.com
 0.0.0.0 stackadapt.com
 0.0.0.0 stackattacka.com
+0.0.0.0 star-advertising.com
 0.0.0.0 stargamesaffiliate.com
 0.0.0.0 starlayer.com
 0.0.0.0 startapp.com
@@ -3848,7 +3841,6 @@
 0.0.0.0 textad.sexsearch.com
 0.0.0.0 text-link-ads.com
 0.0.0.0 textlinks.com
-0.0.0.0 textsrv.com
 0.0.0.0 tfag.de
 0.0.0.0 tgtmedia.com
 0.0.0.0 theadhost.com
@@ -3923,6 +3915,7 @@
 0.0.0.0 touchclarity.com
 0.0.0.0 tour.brazzers.com
 0.0.0.0 tpnads.com
+0.0.0.0 traads3.freebannertrade.com
 0.0.0.0 traceadmanager.com
 0.0.0.0 track.176.com
 0.0.0.0 track.360tracking.fr
@@ -3930,6 +3923,8 @@
 0.0.0.0 track.adflare.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.adrianalynnrush.net
+0.0.0.0 track.ads1.freebannertrade.com
+0.0.0.0 track.ads3.freebannertrade.com
 0.0.0.0 trackaffpix.com
 0.0.0.0 trackalyzer.com
 0.0.0.0 track.analhell.com
@@ -3958,7 +3953,6 @@
 0.0.0.0 track.clubheshe.com
 0.0.0.0 track.clubvaniity.com
 0.0.0.0 track.club-vaniity.net
-0.0.0.0 track.cockrockingteens.com
 0.0.0.0 track.crowmobi.com
 0.0.0.0 track.crumobiapps.com
 0.0.0.0 track.dannixxx.com
@@ -4176,7 +4170,9 @@
 0.0.0.0 track.ts-kimberlee.com
 0.0.0.0 track.ultrahentaipass.com
 0.0.0.0 track.understandsolar.com
+0.0.0.0 track.victoriadipradaads3.freebannertrade.com
 0.0.0.0 track.victoriadiprada.com
+0.0.0.0 track.victoriamilan.cads3.freebannertrade.com
 0.0.0.0 track.victoriamilan.com
 0.0.0.0 track.victoriamilan.net
 0.0.0.0 track.videochicks.com
@@ -4195,6 +4191,8 @@
 0.0.0.0 tradedoubler.com
 0.0.0.0 tradeexpert.net
 0.0.0.0 trademob.com
+0.0.0.0 trads1.freebannertrade.com
+0.0.0.0 trads2.freebannertrade.com
 0.0.0.0 traffboost.net
 0.0.0.0 trafficbroker.com
 0.0.0.0 trafficfactory.biz
@@ -4361,6 +4359,7 @@
 0.0.0.0 viewpoint.com
 0.0.0.0 viewwonder.com
 0.0.0.0 vihub.ru
+0.0.0.0 vipcpms.com
 0.0.0.0 vip-vip-vup.com
 0.0.0.0 viralmediatech.com
 0.0.0.0 virtualcountries.com

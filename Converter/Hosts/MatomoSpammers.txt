@@ -1,7 +1,7 @@
 # MatomoSpammers Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
-# Last Converted - Mon, 25 Jun 2018 01:31:17 -0400
+# Last Converted - Fri, 29 Jun 2018 06:58:01 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0n-line.tv
@@ -103,6 +103,7 @@
 0.0.0.0 best-seo-software.xyz
 0.0.0.0 best-seo-solution.com
 0.0.0.0 bestmobilityscooterstoday.com
+0.0.0.0 bestofferhddbyt.info
 0.0.0.0 bestofferhddeed.info
 0.0.0.0 bestwebsitesawards.com
 0.0.0.0 betterhealthbeauty.com
@@ -217,6 +218,7 @@
 0.0.0.0 cyber-monday.ga
 0.0.0.0 dailyrank.net
 0.0.0.0 darodar.com
+0.0.0.0 dawlenie.com
 0.0.0.0 dbutton.net
 0.0.0.0 dcdcapital.com
 0.0.0.0 deart-13.ru
@@ -279,6 +281,7 @@
 0.0.0.0 erot.co
 0.0.0.0 escort-russian.com
 0.0.0.0 este-line.com.ua
+0.0.0.0 etairikavideo.gr
 0.0.0.0 etehnika.com.ua
 0.0.0.0 eu-cookie-law-enforcement2.xyz
 0.0.0.0 euromasterclass.ru
@@ -332,7 +335,9 @@
 0.0.0.0 get-free-social-traffic.com
 0.0.0.0 get-free-traffic-now.com
 0.0.0.0 get-more-freeer-visitors.info
+0.0.0.0 get-more-freeish-visitors.info
 0.0.0.0 get-your-social-buttons.info
+0.0.0.0 getaadsincome.info
 0.0.0.0 getadsincomely.info
 0.0.0.0 getlamborghini.ga
 0.0.0.0 getrichquick.ml
@@ -829,6 +834,7 @@
 0.0.0.0 works.if.ua
 0.0.0.0 worldmed.info
 0.0.0.0 wufak.com
+0.0.0.0 ww2awards.info
 0.0.0.0 www-lk-rt.ru
 0.0.0.0 xkaz.org
 0.0.0.0 xn-------53dbcapga5atlplfdm6ag1ab1bvehl0b7toa0k.xn--p1ai

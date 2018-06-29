@@ -1,7 +1,7 @@
 # AdguardTracking Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
-# Last Converted - Mon, 25 Jun 2018 01:31:00 -0400
+# Last Converted - Fri, 29 Jun 2018 06:57:44 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 acquia.com
@@ -1327,7 +1327,6 @@
 0.0.0.0 grfz.de
 0.0.0.0 gridsum.com
 0.0.0.0 grmtech.net
-0.0.0.0 groundspeak.com
 0.0.0.0 gscounters.gigya.com
 0.0.0.0 gsecondscreen.com
 0.0.0.0 gsimedia.net
