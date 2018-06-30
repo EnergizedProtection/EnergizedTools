@@ -1,7 +1,7 @@
 # EasyPrivacy Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Fri, 29 Jun 2018 06:57:49 -0400
+# Last Converted - Sat, 30 Jun 2018 07:18:24 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 -geoIP.js
@@ -1709,6 +1709,7 @@
 0.0.0.0 salecycle.com
 0.0.0.0 salemove.com
 0.0.0.0 salesgenius.com
+0.0.0.0 salesmanago.pl
 0.0.0.0 saletrack.co.uk
 0.0.0.0 sapha.com
 0.0.0.0 sarevtop.com
@@ -1807,6 +1808,7 @@
 0.0.0.0 skyglue.com
 0.0.0.0 sl-ct5.com
 0.0.0.0 slingpic.com
+0.0.0.0 smadex.com
 0.0.0.0 smallseotools.com
 0.0.0.0 smart-digital-solutions.com
 0.0.0.0 smart-dmp.com
@@ -1941,6 +1943,7 @@
 0.0.0.0 sxtracking.com
 0.0.0.0 synergy-e.com
 0.0.0.0 synergy-sync.com
+0.0.0.0 synerise.com
 0.0.0.0 synthasite.net
 0.0.0.0 sysomos.com
 0.0.0.0 t-analytics.com
@@ -3358,6 +3361,7 @@
 0.0.0.0 ngacm.com
 0.0.0.0 ngastatic.com
 0.0.0.0 nsaudience.pl
+0.0.0.0 quartic.pl
 0.0.0.0 rejestr.org
 0.0.0.0 stat.4u.pl
 0.0.0.0 stat.pl
@@ -5153,6 +5157,7 @@
 0.0.0.0 diag.doba.com
 0.0.0.0 diamond.transfermarkt.de
 0.0.0.0 diet.rodale.com
+0.0.0.0 dl.meliacloud.com
 0.0.0.0 dmeserv.newsinc.com
 0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 dw.cnet.com

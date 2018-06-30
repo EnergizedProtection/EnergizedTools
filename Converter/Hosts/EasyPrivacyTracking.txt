@@ -1,7 +1,7 @@
 # EasyPrivacyTracking Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
-# Last Converted - Fri, 29 Jun 2018 06:57:50 -0400
+# Last Converted - Sat, 30 Jun 2018 07:18:26 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0emm.com
@@ -1704,6 +1704,7 @@
 0.0.0.0 salecycle.com
 0.0.0.0 salemove.com
 0.0.0.0 salesgenius.com
+0.0.0.0 salesmanago.pl
 0.0.0.0 saletrack.co.uk
 0.0.0.0 sapha.com
 0.0.0.0 sarevtop.com
@@ -1802,6 +1803,7 @@
 0.0.0.0 skyglue.com
 0.0.0.0 sl-ct5.com
 0.0.0.0 slingpic.com
+0.0.0.0 smadex.com
 0.0.0.0 smallseotools.com
 0.0.0.0 smart-digital-solutions.com
 0.0.0.0 smart-dmp.com
@@ -1936,6 +1938,7 @@
 0.0.0.0 sxtracking.com
 0.0.0.0 synergy-e.com
 0.0.0.0 synergy-sync.com
+0.0.0.0 synerise.com
 0.0.0.0 synthasite.net
 0.0.0.0 sysomos.com
 0.0.0.0 t-analytics.com

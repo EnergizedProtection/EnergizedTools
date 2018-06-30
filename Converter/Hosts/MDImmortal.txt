@@ -1,7 +1,7 @@
 # MDImmortal Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - http://malwaredomains.lehigh.edu/files/immortal_domains.txt
-# Last Converted - Fri, 29 Jun 2018 06:58:02 -0400
+# Last Converted - Sat, 30 Jun 2018 07:18:35 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 wittyvideos.com

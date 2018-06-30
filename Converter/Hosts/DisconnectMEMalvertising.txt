@@ -1,7 +1,7 @@
 # DisconnectMEMalvertising Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-# Last Converted - Fri, 29 Jun 2018 06:57:56 -0400
+# Last Converted - Sat, 30 Jun 2018 07:18:31 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 alphaprinthouse.org
@@ -55,8 +55,8 @@
 0.0.0.0 lpcloudsvr302.com
 0.0.0.0 bothwellbridge.co.uk
 0.0.0.0 anhui-attorney.com
-0.0.0.0 www33.xzmnt.com
 0.0.0.0 xiazai.dns-vip.net
+0.0.0.0 www33.xzmnt.com
 0.0.0.0 daizheha.com
 0.0.0.0 bradyhansen.com
 0.0.0.0 commissioncrusher.com
@@ -184,8 +184,8 @@
 0.0.0.0 messenger.zango.com
 0.0.0.0 omgates.com
 0.0.0.0 lastmeasure.zoy.org
-0.0.0.0 www42.rtyszz.com
 0.0.0.0 evodownload.com
+0.0.0.0 www42.rtyszz.com
 0.0.0.0 grk6mgehel1hfehn.ru
 0.0.0.0 9rbk.com
 0.0.0.0 errordoctor.com
@@ -428,8 +428,8 @@
 0.0.0.0 brave.ebod.co.uk
 0.0.0.0 usa-jiaji.com
 0.0.0.0 www.elisaart.it
-0.0.0.0 www19.xioooo.com
 0.0.0.0 www18.rtyszz.com
+0.0.0.0 www19.xioooo.com
 0.0.0.0 malayalam-net.com
 0.0.0.0 978qp.com
 0.0.0.0 510w.com
@@ -496,7 +496,6 @@
 0.0.0.0 www.myhongyuan.net
 0.0.0.0 www281.rentimeinvz.com
 0.0.0.0 ads.mail3x.com
-0.0.0.0 down.xiazai2.net
 0.0.0.0 www41.xzmnt.com
 0.0.0.0 seres.https443.net
 0.0.0.0 illaboratoriosrl.it
@@ -543,12 +542,12 @@
 0.0.0.0 net4um.com
 0.0.0.0 nt002.cn
 0.0.0.0 edge.bayanazdirandamla.com
-0.0.0.0 d4n.platformd.com
 0.0.0.0 evasive.expertwitnessautomaticdoor.net
+0.0.0.0 d4n.platformd.com
 0.0.0.0 gool.frieghtiger.com
 0.0.0.0 xpxp74.com
-0.0.0.0 gxatatuning.cn
 0.0.0.0 xzz.goodoboy.com
+0.0.0.0 gxatatuning.cn
 0.0.0.0 heshenkj.cn
 0.0.0.0 vstart.net
 0.0.0.0 pattayabazaar.com
@@ -582,8 +581,8 @@
 0.0.0.0 720movies.net
 0.0.0.0 defygravity.com
 0.0.0.0 djplazebo.com
-0.0.0.0 accurate.gutterhalment.com
 0.0.0.0 fas.nirmala.life
+0.0.0.0 accurate.gutterhalment.com
 0.0.0.0 watermanwebs.com
 0.0.0.0 cwettqtlffki.com
 0.0.0.0 aeaer.com
@@ -600,11 +599,11 @@
 0.0.0.0 downloadold.xiaocen.com
 0.0.0.0 hyl-zh.lentor.net
 0.0.0.0 www.rsrly.com
-0.0.0.0 bj-fengshi.com
 0.0.0.0 ajusa.net
 0.0.0.0 walklight.net
 0.0.0.0 motionritm.ru
 0.0.0.0 xi1111.com
+0.0.0.0 xiazai2.net
 0.0.0.0 moacbeniv.com
 0.0.0.0 mobile-safety.org
 0.0.0.0 moblao.com
@@ -621,8 +620,8 @@
 0.0.0.0 xa58.cn
 0.0.0.0 yazouh.com
 0.0.0.0 hdxxpp.com
-0.0.0.0 fg.bibleandbullets.com
 0.0.0.0 cars.constructionwitness.net
+0.0.0.0 fg.bibleandbullets.com
 0.0.0.0 movestone.net
 0.0.0.0 location.fashionises.com
 0.0.0.0 7speed.info
@@ -640,7 +639,6 @@
 0.0.0.0 homely.gutterheaters4u.com
 0.0.0.0 config.789wed.com
 0.0.0.0 54fangtan.com
-0.0.0.0 51jczxw.com
 0.0.0.0 bestpons.net
 0.0.0.0 lysyp.com
 0.0.0.0 i-mar.com
@@ -662,7 +660,6 @@
 0.0.0.0 zyjyyy.com
 0.0.0.0 mannesoth.com
 0.0.0.0 toursportsimage.com
-0.0.0.0 komondorok.ro
 0.0.0.0 cfbrr.com
 0.0.0.0 f-scripts.co.nr
 0.0.0.0 elite-bijou.com.ua
@@ -676,16 +673,16 @@
 0.0.0.0 demo25.extstore.com
 0.0.0.0 miamibeachhotels.tv
 0.0.0.0 ladybug.gutterheatersus.com
-0.0.0.0 month.nualias.com
 0.0.0.0 pear.dementiaadvocacy.com
+0.0.0.0 month.nualias.com
 0.0.0.0 trouble.cachetinvestments.com
 0.0.0.0 miremanufacturing.com
 0.0.0.0 downloadedsoftware.com
 0.0.0.0 downloadally.com
 0.0.0.0 dl.bzgthg.com
 0.0.0.0 huatongchuye.com
-0.0.0.0 www33.rtyszz.com
 0.0.0.0 floridayachtpartners.com
+0.0.0.0 www33.rtyszz.com
 0.0.0.0 andlu.org
 0.0.0.0 andreas-gehring.com
 0.0.0.0 jsngupdwxeoa.uglyas.com
@@ -726,9 +723,9 @@
 0.0.0.0 www70.vcbqxu.com
 0.0.0.0 power.bestconstructionexpertwitness.com
 0.0.0.0 honghuamm.com
-0.0.0.0 redinvestor.com
 0.0.0.0 bisimai.com
 0.0.0.0 huaxiagongzhu.com
+0.0.0.0 redinvestor.com
 0.0.0.0 cadastrabb.com
 0.0.0.0 384756783900.cn
 0.0.0.0 bxzxw.net
@@ -854,23 +851,23 @@
 0.0.0.0 apiparbion.com
 0.0.0.0 pjhku.com
 0.0.0.0 cow.gutterheaters.org
+0.0.0.0 ink.churchofthefreespirit.com
 0.0.0.0 faloge.com
 0.0.0.0 falsewi.com
 0.0.0.0 filmschoolsforum.com
-0.0.0.0 ink.churchofthefreespirit.com
 0.0.0.0 prefer.gutterhelment.com
 0.0.0.0 rick.nirmallife.co.in
 0.0.0.0 tablet.gutterhelment.net
-0.0.0.0 4went.pl
 0.0.0.0 throne.thehelpbiz.com
+0.0.0.0 4went.pl
 0.0.0.0 beta.spb0.ru
-0.0.0.0 interfere.marionunezcampusano.com
 0.0.0.0 flipvine.com
 0.0.0.0 pozdrav-im.ru
 0.0.0.0 ttb.lpcloudsvr302.com
 0.0.0.0 dj-sx.com
 0.0.0.0 hotslotpot.cn
 0.0.0.0 czqmc.com
+0.0.0.0 interfere.marionunezcampusano.com
 0.0.0.0 loles.neostrada.pl
 0.0.0.0 haihuang-audio.com
 0.0.0.0 htpm.com.cn

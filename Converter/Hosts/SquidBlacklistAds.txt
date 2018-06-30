@@ -1,12 +1,11 @@
 # SquidBlacklistAds Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - Fri, 29 Jun 2018 06:57:59 -0400
+# Last Converted - Sat, 30 Jun 2018 07:18:33 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0icep80f.com
 0.0.0.0 0pixl.com
-0.0.0.0 103092804.com
 0.0.0.0 118-oew-181.mktoresp.com
 0.0.0.0 123date.me
 0.0.0.0 12place.com
@@ -105,6 +104,7 @@
 0.0.0.0 actiondesk.com
 0.0.0.0 actionsplash.com
 0.0.0.0 activedancer.com
+0.0.0.0 actualdeals.com
 0.0.0.0 actuallysheep.com
 0.0.0.0 acuityads.com
 0.0.0.0 ad01.mediacorpsingapore.com
@@ -117,6 +117,7 @@
 0.0.0.0 ad1.pamedia.com.au
 0.0.0.0 ad20.net
 0.0.0.0 ad2adnetwork.biz
+0.0.0.0 ad2flash.com
 0.0.0.0 ad2games.com
 0.0.0.0 ad2.iinfo.cz
 0.0.0.0 ad2.linxcz.cz
@@ -252,7 +253,6 @@
 0.0.0.0 adevents.com.au
 0.0.0.0 adex.alphalab.com
 0.0.0.0 adexchange.io
-0.0.0.0 adexcite.com
 0.0.0.0 adex.cloud
 0.0.0.0 adex.tech
 0.0.0.0 adextent.com
@@ -371,7 +371,6 @@
 0.0.0.0 adkengage.com
 0.0.0.0 adkick.net
 0.0.0.0 adklip.com
-0.0.0.0 adknowledge.com
 0.0.0.0 ad.kodansha.net
 0.0.0.0 ad.kronospan-express.com
 0.0.0.0 ad.ksyun.com
@@ -433,6 +432,7 @@
 0.0.0.0 admex.com
 0.0.0.0 ad.mgd.de
 0.0.0.0 adminder.com
+0.0.0.0 adminshop.com
 0.0.0.0 admission.net
 0.0.0.0 admitad.com
 0.0.0.0 admixer.net
@@ -548,7 +548,6 @@
 0.0.0.0 ads.20m.es
 0.0.0.0 ads2.brazzers.com
 0.0.0.0 ads2.clearchannel.com
-0.0.0.0 ads2.freebannertrade.com
 0.0.0.0 ads2.jubii.dk
 0.0.0.0 ads2.net-communities.co.uk
 0.0.0.0 ads2.oneplace.com
@@ -591,6 +590,7 @@
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.affiliates-spinit.com
 0.0.0.0 ads.alibaba.com
+0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.alt.com
 0.0.0.0 ads.altitude-arena.com
 0.0.0.0 ads.alwaysphonesex.com
@@ -790,7 +790,6 @@
 0.0.0.0 ads.fortunecity.com
 0.0.0.0 ads.fotosidan.se
 0.0.0.0 ads.foxnetworks.com
-0.0.0.0 ads.freebannertrade.com
 0.0.0.0 ads.freecity.de
 0.0.0.0 ads.friendfinder.com
 0.0.0.0 ads.ft.com
@@ -1774,6 +1773,7 @@
 0.0.0.0 cjlog.com
 0.0.0.0 ck.thrillbucks.com
 0.0.0.0 clarityray.com
+0.0.0.0 clash-media.com
 0.0.0.0 clashmobile.com
 0.0.0.0 class-act-clicks.com
 0.0.0.0 cldlr.com
@@ -2293,6 +2293,7 @@
 0.0.0.0 getpopunder.com
 0.0.0.0 getscorecash.com
 0.0.0.0 giantaffiliates.com
+0.0.0.0 giu9aab.bid
 0.0.0.0 givingsol.com
 0.0.0.0 gklfs-idnhw.ads.tremorhub.com
 0.0.0.0 gklfs-x8k98.ads.tremorhub.com
@@ -3382,17 +3383,20 @@
 0.0.0.0 quinst.com
 0.0.0.0 quinstreet.com
 0.0.0.0 quisma.com
+0.0.0.0 qwrfpgf.com
 0.0.0.0 qwzmje9w.com
 0.0.0.0 r6---sn-q4fl6n7y.c.2mdn.net
 0.0.0.0 radar.cedexis.com
 0.0.0.0 radarurl.com
 0.0.0.0 radiate.com
+0.0.0.0 radicalwealthformula.com
 0.0.0.0 radiumone.com
 0.0.0.0 radiusmarketing.com
 0.0.0.0 ragapa.com
 0.0.0.0 rainbowtgx.com
 0.0.0.0 rampidads.com
 0.0.0.0 rankchamp.de
+0.0.0.0 rankingchart.de
 0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-hits.de
 0.0.0.0 ranking-id.de
@@ -3434,7 +3438,6 @@
 0.0.0.0 redirectpopads.com
 0.0.0.0 redmas.com
 0.0.0.0 reduxmedia.com
-0.0.0.0 reduxmediagroup.com
 0.0.0.0 reedbusiness.com
 0.0.0.0 reelcentric.com
 0.0.0.0 referback.com
@@ -3670,6 +3673,7 @@
 0.0.0.0 solocpm.com
 0.0.0.0 sonobi.com
 0.0.0.0 soosooka.com
+0.0.0.0 sophiasearch.com
 0.0.0.0 sotuktraffic.com
 0.0.0.0 spacash.com
 0.0.0.0 sparkstudios.com
@@ -3711,7 +3715,6 @@
 0.0.0.0 ssl-services.com
 0.0.0.0 stackadapt.com
 0.0.0.0 stackattacka.com
-0.0.0.0 star-advertising.com
 0.0.0.0 stargamesaffiliate.com
 0.0.0.0 starlayer.com
 0.0.0.0 startapp.com
@@ -3915,7 +3918,6 @@
 0.0.0.0 touchclarity.com
 0.0.0.0 tour.brazzers.com
 0.0.0.0 tpnads.com
-0.0.0.0 traads3.freebannertrade.com
 0.0.0.0 traceadmanager.com
 0.0.0.0 track.176.com
 0.0.0.0 track.360tracking.fr
@@ -3923,8 +3925,6 @@
 0.0.0.0 track.adflare.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.adrianalynnrush.net
-0.0.0.0 track.ads1.freebannertrade.com
-0.0.0.0 track.ads3.freebannertrade.com
 0.0.0.0 trackaffpix.com
 0.0.0.0 trackalyzer.com
 0.0.0.0 track.analhell.com
@@ -4170,9 +4170,7 @@
 0.0.0.0 track.ts-kimberlee.com
 0.0.0.0 track.ultrahentaipass.com
 0.0.0.0 track.understandsolar.com
-0.0.0.0 track.victoriadipradaads3.freebannertrade.com
 0.0.0.0 track.victoriadiprada.com
-0.0.0.0 track.victoriamilan.cads3.freebannertrade.com
 0.0.0.0 track.victoriamilan.com
 0.0.0.0 track.victoriamilan.net
 0.0.0.0 track.videochicks.com
@@ -4191,8 +4189,6 @@
 0.0.0.0 tradedoubler.com
 0.0.0.0 tradeexpert.net
 0.0.0.0 trademob.com
-0.0.0.0 trads1.freebannertrade.com
-0.0.0.0 trads2.freebannertrade.com
 0.0.0.0 traffboost.net
 0.0.0.0 trafficbroker.com
 0.0.0.0 trafficfactory.biz
@@ -4359,7 +4355,6 @@
 0.0.0.0 viewpoint.com
 0.0.0.0 viewwonder.com
 0.0.0.0 vihub.ru
-0.0.0.0 vipcpms.com
 0.0.0.0 vip-vip-vup.com
 0.0.0.0 viralmediatech.com
 0.0.0.0 virtualcountries.com
