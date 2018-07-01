@@ -1,9 +1,15 @@
 # AdguardSpywareFirstParty Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt
-# Last Converted - Sat, 30 Jun 2018 07:18:20 -0400
+# Last Converted - Sun, 01 Jul 2018 08:47:35 -0400
 # Energized - ad.porn.malware blocking.
 
+0.0.0.0 collect.albacross.com
+0.0.0.0 magnetrack.klangoo.com
+0.0.0.0 ta.trs.cn
+0.0.0.0 telemetry.allrecipes.com
+0.0.0.0 pixel.roymorgan.com
+0.0.0.0 bdg-analytics.appspot.com
 0.0.0.0 beacon.walmart.ca
 0.0.0.0 stc.oa.zalo.me
 0.0.0.0 oa-stc.zdn.vn

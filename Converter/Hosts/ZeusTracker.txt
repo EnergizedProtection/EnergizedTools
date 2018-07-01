@@ -1,7 +1,7 @@
 # ZeusTracker Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
-# Last Converted - Sat, 30 Jun 2018 07:18:35 -0400
+# Last Converted - Sun, 01 Jul 2018 08:47:52 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 039b1ee.netsolhost.com

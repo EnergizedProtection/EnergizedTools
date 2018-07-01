@@ -1,7 +1,7 @@
 # MatomoSpammers Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
-# Last Converted - Sat, 30 Jun 2018 07:18:34 -0400
+# Last Converted - Sun, 01 Jul 2018 08:47:51 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0n-line.tv

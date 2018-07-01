@@ -1,13 +1,34 @@
 # CybercrimeTracker Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://v.firebog.net/hosts/Cybercrime.txt
-# Last Converted - Sat, 30 Jun 2018 07:18:35 -0400
+# Last Converted - Sun, 01 Jul 2018 08:47:51 -0400
 # Energized - ad.porn.malware blocking.
 
+0.0.0.0 enerqyintl.com
+0.0.0.0 abatii.web.id
+0.0.0.0 rekmedia.com.au
+0.0.0.0 etssme.com
+0.0.0.0 statewidelegal.com.au
+0.0.0.0 blablatrain.xyz
+0.0.0.0 sobeteracotafancris.ro
+0.0.0.0 electrolaser.pt
+0.0.0.0 aljesvin.com
+0.0.0.0 tarati.se
+0.0.0.0 bisan.com.sa
+0.0.0.0 strutitinca.ro
+0.0.0.0 insightthk.com
+0.0.0.0 vh188.ffox.site
+0.0.0.0 bitcoinminermachines.com
+0.0.0.0 treenon.bid
+0.0.0.0 gelmonterom.com
+0.0.0.0 ieejotex.com
+0.0.0.0 forthanj.beget.tech
+0.0.0.0 abbi.serverpick.trade
+0.0.0.0 globalbmanage.com
+0.0.0.0 sauditechnical-sa.com
 0.0.0.0 supremedmitry.zzz.com.ua
 0.0.0.0 engerrow.gq
 0.0.0.0 chinaquanchenq.com
-0.0.0.0 blablatrain.xyz
 0.0.0.0 jhuynfrkijucdxiu.club
 0.0.0.0 axe-ortho.fr
 0.0.0.0 detailingpro.co.in
@@ -60,7 +81,6 @@
 0.0.0.0 jiren.ru
 0.0.0.0 betawimas.com
 0.0.0.0 basecampwisata.com
-0.0.0.0 strutitinca.ro
 0.0.0.0 oredis.ma
 0.0.0.0 topstar-it.com
 0.0.0.0 topreadz.ru
@@ -176,7 +196,6 @@
 0.0.0.0 purefbleads.com
 0.0.0.0 insignielinen.com
 0.0.0.0 azasupport.info
-0.0.0.0 tarati.se
 0.0.0.0 starterpackproductions.ru
 0.0.0.0 www.diferreirabarbershop.com.br
 0.0.0.0 sinonem.tk

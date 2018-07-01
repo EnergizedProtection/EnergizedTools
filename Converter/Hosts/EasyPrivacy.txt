@@ -1,7 +1,7 @@
 # EasyPrivacy Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Sat, 30 Jun 2018 07:18:24 -0400
+# Last Converted - Sun, 01 Jul 2018 08:47:39 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 -geoIP.js
@@ -1311,6 +1311,7 @@
 0.0.0.0 mxpnl.com
 0.0.0.0 mxptint.net
 0.0.0.0 myaffiliateprogram.com
+0.0.0.0 myaudience.de
 0.0.0.0 mybloglog.com
 0.0.0.0 myfastcounter.com
 0.0.0.0 mynewcounter.com
@@ -2163,6 +2164,7 @@
 0.0.0.0 vinlens.com
 0.0.0.0 vinub.com
 0.0.0.0 viralninjas.com
+0.0.0.0 virgul.com
 0.0.0.0 virool.com
 0.0.0.0 virtualnet.co.uk
 0.0.0.0 visibility-stats.com
@@ -3799,6 +3801,7 @@
 0.0.0.0 counter.scribblelive.net
 0.0.0.0 counter.snackly.co
 0.0.0.0 counter.sparklit.com
+0.0.0.0 counter.tldw.me
 0.0.0.0 counter.top.ge
 0.0.0.0 counter.webcom.com
 0.0.0.0 counter.webmasters.bpath.com
@@ -4144,6 +4147,7 @@
 0.0.0.0 passport.pfn.bz
 0.0.0.0 pebed.dm.gg
 0.0.0.0 peermapcontent.affino.com
+0.0.0.0 performance.typekit.net
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 petitionermaster.appspot.com
 0.0.0.0 pf.aclst.com
@@ -5263,6 +5267,7 @@
 0.0.0.0 log.mappy.net
 0.0.0.0 log.newsvine.com
 0.0.0.0 log.optimizely.com
+0.0.0.0 log.prezi.com
 0.0.0.0 log.snapdeal.com
 0.0.0.0 log.thevideo.me
 0.0.0.0 log.vdn.apps.cntv.cn

@@ -1,7 +1,7 @@
 # EasyPrivacyTracking Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
-# Last Converted - Sat, 30 Jun 2018 07:18:26 -0400
+# Last Converted - Sun, 01 Jul 2018 08:47:41 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0emm.com
@@ -1306,6 +1306,7 @@
 0.0.0.0 mxpnl.com
 0.0.0.0 mxptint.net
 0.0.0.0 myaffiliateprogram.com
+0.0.0.0 myaudience.de
 0.0.0.0 mybloglog.com
 0.0.0.0 myfastcounter.com
 0.0.0.0 mynewcounter.com
@@ -2158,6 +2159,7 @@
 0.0.0.0 vinlens.com
 0.0.0.0 vinub.com
 0.0.0.0 viralninjas.com
+0.0.0.0 virgul.com
 0.0.0.0 virool.com
 0.0.0.0 virtualnet.co.uk
 0.0.0.0 visibility-stats.com

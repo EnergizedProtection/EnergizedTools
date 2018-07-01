@@ -1,7 +1,7 @@
 # DShieldLOW Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://www.dshield.org/feeds/suspiciousdomains_Low.txt
-# Last Converted - Sat, 30 Jun 2018 07:18:31 -0400
+# Last Converted - Sun, 01 Jul 2018 08:47:47 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 agiftcard724.com

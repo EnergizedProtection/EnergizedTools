@@ -1,7 +1,7 @@
 # SquidBlacklistAds Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - http://www.squidblacklist.org/downloads/dg-ads.acl
-# Last Converted - Sat, 30 Jun 2018 07:18:33 -0400
+# Last Converted - Sun, 01 Jul 2018 08:47:49 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0icep80f.com
@@ -104,7 +104,6 @@
 0.0.0.0 actiondesk.com
 0.0.0.0 actionsplash.com
 0.0.0.0 activedancer.com
-0.0.0.0 actualdeals.com
 0.0.0.0 actuallysheep.com
 0.0.0.0 acuityads.com
 0.0.0.0 ad01.mediacorpsingapore.com
@@ -432,7 +431,6 @@
 0.0.0.0 admex.com
 0.0.0.0 ad.mgd.de
 0.0.0.0 adminder.com
-0.0.0.0 adminshop.com
 0.0.0.0 admission.net
 0.0.0.0 admitad.com
 0.0.0.0 admixer.net
@@ -465,7 +463,6 @@
 0.0.0.0 adnews.maddog2000.de
 0.0.0.0 adnext.fr
 0.0.0.0 adngin.com
-0.0.0.0 adnimation.com
 0.0.0.0 adnium.com
 0.0.0.0 adnmore.co.kr
 0.0.0.0 adnoble.com
@@ -487,7 +484,6 @@
 0.0.0.0 adorigin.com
 0.0.0.0 adorika.com
 0.0.0.0 adorika.net
-0.0.0.0 adotic.com
 0.0.0.0 adotube.com
 0.0.0.0 adowner.net
 0.0.0.0 adpacks.com
@@ -664,6 +660,7 @@
 0.0.0.0 ads.clearchannel.com
 0.0.0.0 ads-click.com
 0.0.0.0 ads.co.com
+0.0.0.0 ads-codes.net
 0.0.0.0 ads.com.com
 0.0.0.0 ads.contactmusic.com
 0.0.0.0 adscpm.net
@@ -3396,7 +3393,6 @@
 0.0.0.0 rainbowtgx.com
 0.0.0.0 rampidads.com
 0.0.0.0 rankchamp.de
-0.0.0.0 rankingchart.de
 0.0.0.0 ranking-charts.de
 0.0.0.0 ranking-hits.de
 0.0.0.0 ranking-id.de
@@ -3673,7 +3669,6 @@
 0.0.0.0 solocpm.com
 0.0.0.0 sonobi.com
 0.0.0.0 soosooka.com
-0.0.0.0 sophiasearch.com
 0.0.0.0 sotuktraffic.com
 0.0.0.0 spacash.com
 0.0.0.0 sparkstudios.com
@@ -4258,6 +4253,7 @@
 0.0.0.0 twinpinenetwork.com
 0.0.0.0 twistads.com
 0.0.0.0 twittad.com
+0.0.0.0 twtad.com
 0.0.0.0 txtimpact.com
 0.0.0.0 tyroo.com
 0.0.0.0 u1hw38x0.com
