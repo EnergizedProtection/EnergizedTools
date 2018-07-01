@@ -1,7 +1,7 @@
 # Energized GoogleVideo Blocker
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/AdroitAdorKhan/Energized/master/EnergizedHosts/EnergizedGV
-# Last Converted - Sat, 30 Jun 2018 07:18:41 -0400
+# Last Converted - Sun, 01 Jul 2018 08:47:59 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 r1---sn-1gi7zne7.googlevideo.com
