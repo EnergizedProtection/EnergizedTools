@@ -1,5 +1,5 @@
 #!/bin/sh
-
+# Cool new script for Linux PC users..
 while true; do
 clear
 
