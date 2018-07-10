@@ -1,5 +1,5 @@
 #!/bin/sh
-# Cool new script for Linux PC users..
+
 while true; do
 clear
 
@@ -51,13 +51,11 @@ clear
 echo "Energized ad-blocker Un/Installer"
 
 echo "You have currently installed $eonoff
-
 Your hosts file was updated on $update
 and is $size or $size_humanfriendly in size..
 
 Choose your package :
 (You have currently installed the $echeck package)
-
  1. Energized - Adware
  2. Energized Malware - Malware
  3. Energized Porn - PornSites and PornAds
@@ -67,11 +65,12 @@ Choose your package :
  7. Energized Porn Lite - Porn Basic
  8. Energized Ultimate - Adware and Malware Unified
  9. Energized Unified - Adware, Malware and Porn Unified
-
-NOTES : You must be connected to the internet to download hosts
+ 
+NOTES
+*You must be connected to the internet to download hosts
+*You will be asked to provide your password for some admin-level tasks
 
 Other Options (17 - 19)
-
 17. Disable Ad Blocker / Restore default Hosts file
 18. Know more about Energized-Hosts (opens your web browser)
 19. Know how secure you are with our Ad-Block Test
@@ -82,7 +81,8 @@ Please select an option: "
 read -r option
 
 if [ "$option" -eq 1 ]; then
-
+echo "Applying Energized Ad-Ware hosts"
+sleep 1
 clear
 echo "Deleting Previous Hosts.."
 sleep 1
@@ -91,7 +91,7 @@ clear
 echo "Downloading hosts file from server.."
 sleep 1
 echo ""
-sudo bash -c "wget -O /etc/hosts "https://ador.chorompotro.com/energized/Energized""
+sudo bash -c "wget -O /etc/hosts "https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedAd/energized/hosts""
 clear
 echo "Installing to system.."
 sleep 1
@@ -101,6 +101,8 @@ echo "Done !!"
 
 elif [ "$option" -eq 2 ]; then
 
+echo "Applying Energized Malware hosts"
+sleep 1
 clear
 echo "Deleting Previous Hosts.."
 sleep 1
@@ -109,7 +111,7 @@ clear
 echo "Downloading hosts file from server.."
 sleep 1
 echo ""
-sudo bash -c "wget -O /etc/hosts "https://ador.chorompotro.com/energized/Energized""
+sudo bash -c "wget -O /etc/hosts "https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedMalware/energized/hosts""
 clear
 echo "Installing to system.."
 sleep 1
@@ -119,6 +121,8 @@ echo "Done !!"
 
 elif [ "$option" -eq 3 ]; then
 
+echo "Applying Energized Porn hosts"
+sleep 1
 clear
 echo "Deleting Previous Hosts.."
 sleep 1
@@ -127,7 +131,7 @@ clear
 echo "Downloading hosts file from server.."
 sleep 1
 echo ""
-sudo bash -c "wget -O /etc/hosts "https://ador.chorompotro.com/energized/Energized""
+sudo bash -c "wget -O /etc/hosts "https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPorn/energized/hosts""
 clear
 echo "Installing to system.."
 sleep 1
@@ -137,6 +141,8 @@ echo "Done !!"
 
 elif [ "$option" -eq 4 ]; then
 
+echo "Applying Energized Blu hosts"
+sleep 1
 clear
 echo "Deleting Previous Hosts.."
 sleep 1
@@ -145,7 +151,7 @@ clear
 echo "Downloading hosts file from server.."
 sleep 1
 echo ""
-sudo bash -c "wget -O /etc/hosts "https://ador.chorompotro.com/energized/Energized""
+sudo bash -c "wget -O /etc/hosts "https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu""
 clear
 echo "Installing to system.."
 sleep 1
@@ -155,6 +161,8 @@ echo "Done !!"
 
 elif [ "$option" -eq 5 ]; then
 
+echo "Applying Energized Blu Go hosts"
+sleep 1
 clear
 echo "Deleting Previous Hosts.."
 sleep 1
@@ -163,7 +171,7 @@ clear
 echo "Downloading hosts file from server.."
 sleep 1
 echo ""
-sudo bash -c "wget -O /etc/hosts "https://ador.chorompotro.com/energized/Energized""
+sudo bash -c "wget -O /etc/hosts "https://raw.githubusercontent.com/EnergizedProtection/EnergizedBlu/master/energized/blu_go""
 clear
 echo "Installing to system.."
 sleep 1
@@ -173,6 +181,8 @@ echo "Done !!"
 
 elif [ "$option" -eq 6 ]; then
 
+echo "Applying Energized Lite hosts"
+sleep 1
 clear
 echo "Deleting Previous Hosts.."
 sleep 1
@@ -181,7 +191,7 @@ clear
 echo "Downloading hosts file from server.."
 sleep 1
 echo ""
-sudo bash -c "wget -O /etc/hosts "https://ador.chorompotro.com/energized/Energized""
+sudo bash -c "wget -O /etc/hosts "https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedLite/energized/hosts""
 clear
 echo "Installing to system.."
 sleep 1
@@ -191,6 +201,8 @@ echo "Done !!"
 
 elif [ "$option" -eq 7 ]; then
 
+echo "Applying Energized Porn Lite hosts"
+sleep 1
 clear
 echo "Deleting Previous Hosts.."
 sleep 1
@@ -199,7 +211,7 @@ clear
 echo "Downloading hosts file from server.."
 sleep 1
 echo ""
-sudo bash -c "wget -O /etc/hosts "https://ador.chorompotro.com/energized/Energized""
+sudo bash -c "wget -O /etc/hosts "https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedPornLite/energized/hosts""
 clear
 echo "Installing to system.."
 sleep 1
@@ -209,6 +221,8 @@ echo "Done !!"
 
 elif [ "$option" -eq 8 ]; then
 
+echo "Applying Energized Ultimate hosts"
+sleep 1
 clear
 echo "Deleting Previous Hosts.."
 sleep 1
@@ -217,7 +231,7 @@ clear
 echo "Downloading hosts file from server.."
 sleep 1
 echo ""
-sudo bash -c "wget -O /etc/hosts "https://ador.chorompotro.com/energized/Energized""
+sudo bash -c "wget -O /etc/hosts "https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUltimate/energized/hosts""
 clear
 echo "Installing to system.."
 sleep 1
@@ -227,6 +241,8 @@ echo "Done !!"
 
 elif [ "$option" -eq 9 ]; then
 
+echo "Applying Energized Unified hosts"
+sleep 1
 clear
 echo "Deleting Previous Hosts.."
 sleep 1
@@ -235,7 +251,7 @@ clear
 echo "Downloading hosts file from server.."
 sleep 1
 echo ""
-sudo bash -c "wget -O /etc/hosts "https://ador.chorompotro.com/energized/Energized""
+sudo bash -c "wget -O /etc/hosts "https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUnified/energized/hosts""
 clear
 echo "Installing to system.."
 sleep 1
@@ -246,21 +262,27 @@ echo "Done !!"
 elif [ "$option" -eq 17 ]; then
 clear
 echo "Deleting hosts file from system.."
+sleep 1
 sudo bash -c "rm -rf /etc/hosts"
 echo "Restoring Default hosts file.."
+sleep 1
 sudo bash -c "cat >> /etc/hosts <<EOF
 127.0.0.1		    localhost
-
 EOF"
 echo "Applying proper permissions.."
+sleep 1
 sudo bash -c "chmod 644 /etc/hosts"
 sudo bash -c "chown 0:0 /etc/hosts"
 echo "Done !!"
 
 elif [ "$option" -eq 18 ]; then
+echo "Taking you to the Energized-hosts Homepage , please wait !!"
+sleep 2
 xdg-open https://ador.chorompotro.com/energized/
 
 elif [ "$option" -eq 19 ]; then
+echo "Loading ad-block test page , please wait !!"
+sleep 2
 xdg-open https://ador.chorompotro.com/energized/secure/
 
 elif [ "$option" -eq 20 ]; then
