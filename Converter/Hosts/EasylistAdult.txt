@@ -1,7 +1,7 @@
 # EasylistAdult Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt
-# Last Converted - Sun, 01 Jul 2018 08:47:41 -0400
+# Last Converted - Thu, 12 Jul 2018 18:14:40 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 00zasdf.pw
@@ -139,6 +139,7 @@
 0.0.0.0 affiliaxe.com
 0.0.0.0 affiligay.net
 0.0.0.0 afgr1.com
+0.0.0.0 afgr3.com
 0.0.0.0 aipbannerx.com
 0.0.0.0 aipmedia.com
 0.0.0.0 alfatraffic.com
@@ -155,6 +156,7 @@
 0.0.0.0 angelpastel.com
 0.0.0.0 antaraimedia.com
 0.0.0.0 antoball.com
+0.0.0.0 aoredi.com
 0.0.0.0 apromoweb.com
 0.0.0.0 are-ter.com
 0.0.0.0 asiafriendfinder.com
@@ -451,6 +453,7 @@
 0.0.0.0 ijrah.top
 0.0.0.0 ilovecheating.com
 0.0.0.0 imglnka.com
+0.0.0.0 imglnkb.com
 0.0.0.0 impotencehelp.info
 0.0.0.0 impressionmonster.com
 0.0.0.0 inertanceretinallaurel.com
@@ -908,6 +911,7 @@
 0.0.0.0 uxernab.com
 0.0.0.0 ver-pelis.net
 0.0.0.0 verticalaffiliation.com
+0.0.0.0 vfgta.com
 0.0.0.0 video-people.com
 0.0.0.0 viewrtb.com
 0.0.0.0 virtuagirlhd.com

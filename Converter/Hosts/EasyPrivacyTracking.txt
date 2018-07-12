@@ -1,7 +1,7 @@
 # EasyPrivacyTracking Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
-# Last Converted - Sun, 01 Jul 2018 08:47:41 -0400
+# Last Converted - Thu, 12 Jul 2018 18:14:40 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 0emm.com
@@ -846,6 +846,7 @@
 0.0.0.0 fusestats.com
 0.0.0.0 fuziontech.net
 0.0.0.0 fyreball.com
+0.0.0.0 gammachug.com
 0.0.0.0 gaug.es
 0.0.0.0 gbotvisit.com
 0.0.0.0 gear5.me
@@ -926,6 +927,7 @@
 0.0.0.0 hiconversion.com
 0.0.0.0 higherengine.com
 0.0.0.0 highmetrics.com
+0.0.0.0 hira-meki.jp
 0.0.0.0 histats.com
 0.0.0.0 hit-counter-download.com
 0.0.0.0 hit-counter.info
@@ -1236,6 +1238,7 @@
 0.0.0.0 measuremap.com
 0.0.0.0 measurementapi.com
 0.0.0.0 meatballsandads.com
+0.0.0.0 media01.eu
 0.0.0.0 mediaarmor.com
 0.0.0.0 mediaforgews.com
 0.0.0.0 mediagauge.com
@@ -1368,6 +1371,7 @@
 0.0.0.0 nexeps.com
 0.0.0.0 nextstat.com
 0.0.0.0 ngmco.net
+0.0.0.0 nicequest.com
 0.0.0.0 nicewii.com
 0.0.0.0 niftymaps.com
 0.0.0.0 nik.io
@@ -1978,6 +1982,7 @@
 0.0.0.0 theagency.com
 0.0.0.0 thebestlinks.com
 0.0.0.0 thebrighttag.com
+0.0.0.0 thecounter.com
 0.0.0.0 thefreehitcounter.com
 0.0.0.0 thehairofcaptainpicard.com
 0.0.0.0 thermstats.com

@@ -1,9 +1,11 @@
 # AdguardTracking Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers.txt
-# Last Converted - Sun, 01 Jul 2018 08:47:35 -0400
+# Last Converted - Thu, 12 Jul 2018 18:14:33 -0400
 # Energized - ad.porn.malware blocking.
 
+0.0.0.0 t.kctag.net
+0.0.0.0 mpc.nicequest.com
 0.0.0.0 acquia.com
 0.0.0.0 osniffer.pro
 0.0.0.0 webtrekk.com
@@ -1838,7 +1840,6 @@
 0.0.0.0 msgtag.com
 0.0.0.0 mstat.acestream.net
 0.0.0.0 mstracker.net
-0.0.0.0 mtp.spaces.ru
 0.0.0.0 mtrack.nl
 0.0.0.0 mtracking.com
 0.0.0.0 mtrics.cdc.gov
@@ -2002,7 +2003,6 @@
 0.0.0.0 onetag-sys.com
 0.0.0.0 ongsono.com
 0.0.0.0 online-media-stats.com
-0.0.0.0 online-metrix.net
 0.0.0.0 online-metrix.net
 0.0.0.0 online-right-now.net
 0.0.0.0 onlinewebstat.com

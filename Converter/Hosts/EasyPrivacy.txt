@@ -1,7 +1,7 @@
 # EasyPrivacy Custom Build
 # Builds Maintainer: Nayem Ador
 # Converted From - https://easylist.to/easylist/easyprivacy.txt
-# Last Converted - Sun, 01 Jul 2018 08:47:39 -0400
+# Last Converted - Thu, 12 Jul 2018 18:14:38 -0400
 # Energized - ad.porn.malware blocking.
 
 0.0.0.0 -geoIP.js
@@ -851,6 +851,7 @@
 0.0.0.0 fusestats.com
 0.0.0.0 fuziontech.net
 0.0.0.0 fyreball.com
+0.0.0.0 gammachug.com
 0.0.0.0 gaug.es
 0.0.0.0 gbotvisit.com
 0.0.0.0 gear5.me
@@ -931,6 +932,7 @@
 0.0.0.0 hiconversion.com
 0.0.0.0 higherengine.com
 0.0.0.0 highmetrics.com
+0.0.0.0 hira-meki.jp
 0.0.0.0 histats.com
 0.0.0.0 hit-counter-download.com
 0.0.0.0 hit-counter.info
@@ -1241,6 +1243,7 @@
 0.0.0.0 measuremap.com
 0.0.0.0 measurementapi.com
 0.0.0.0 meatballsandads.com
+0.0.0.0 media01.eu
 0.0.0.0 mediaarmor.com
 0.0.0.0 mediaforgews.com
 0.0.0.0 mediagauge.com
@@ -1373,6 +1376,7 @@
 0.0.0.0 nexeps.com
 0.0.0.0 nextstat.com
 0.0.0.0 ngmco.net
+0.0.0.0 nicequest.com
 0.0.0.0 nicewii.com
 0.0.0.0 niftymaps.com
 0.0.0.0 nik.io
@@ -1983,6 +1987,7 @@
 0.0.0.0 theagency.com
 0.0.0.0 thebestlinks.com
 0.0.0.0 thebrighttag.com
+0.0.0.0 thecounter.com
 0.0.0.0 thefreehitcounter.com
 0.0.0.0 thehairofcaptainpicard.com
 0.0.0.0 thermstats.com
@@ -3214,6 +3219,7 @@
 0.0.0.0 hotstats.gr
 0.0.0.0 linkwi.se
 0.0.0.0 enter-system.com
+0.0.0.0 erate.co.il
 0.0.0.0 fortvision.com
 0.0.0.0 hetchi.com
 0.0.0.0 lead.im
@@ -3233,6 +3239,7 @@
 0.0.0.0 digital-metric.com
 0.0.0.0 distribeo.com
 0.0.0.0 dnab.info
+0.0.0.0 exsigma.eu
 0.0.0.0 freecounter.it
 0.0.0.0 freestat.ws
 0.0.0.0 freestats.biz
@@ -3370,6 +3377,7 @@
 0.0.0.0 tagcdn.com
 0.0.0.0 volvelle.tech
 0.0.0.0 way2traffic.com
+0.0.0.0 denakop.com
 0.0.0.0 engageya.com
 0.0.0.0 marktest.pt
 0.0.0.0 popstats.com.br
@@ -3411,6 +3419,7 @@
 0.0.0.0 dircont3.com
 0.0.0.0 directcrm.ru
 0.0.0.0 e-kuzbass.ru
+0.0.0.0 efatik.me
 0.0.0.0 exe.bid
 0.0.0.0 faststart.ru
 0.0.0.0 ftrack.ru
@@ -3663,6 +3672,7 @@
 0.0.0.0 analytics.wildtangent.com
 0.0.0.0 analytics.yola.net
 0.0.0.0 analytics.yolacdn.net
+0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analyze.full-marke.com
 0.0.0.0 analyzer.qmerce.com
@@ -4501,6 +4511,7 @@
 0.0.0.0 tracking.livingsocial.com
 0.0.0.0 tracking.maxcdn.com
 0.0.0.0 tracking.musixmatch.com
+0.0.0.0 tracking.pacharge.com
 0.0.0.0 tracking.performgroup.com
 0.0.0.0 tracking.plattformad.com
 0.0.0.0 tracking.plinga.de
@@ -4524,6 +4535,7 @@
 0.0.0.0 tracking2.interweave.com
 0.0.0.0 trackingapi.cloudapp.net
 0.0.0.0 trackingdev.nixxie.com
+0.0.0.0 trackla.stackla.com
 0.0.0.0 tracksys.developlabs.net
 0.0.0.0 traffic.acwebconnecting.com
 0.0.0.0 traffic.belaydevelopment.com
@@ -4542,6 +4554,7 @@
 0.0.0.0 trk.pswec.com
 0.0.0.0 trk.sele.co
 0.0.0.0 trk.vindicosuite.com
+0.0.0.0 tru.webelapp.com
 0.0.0.0 try.abtasty.com
 0.0.0.0 ts.tradetracker.net
 0.0.0.0 tt.onthe.io
@@ -4882,7 +4895,9 @@
 0.0.0.0 api.nobeta.com.br
 0.0.0.0 contadorgratis.web-kit.org
 0.0.0.0 hitserver.ibope.com.br
+0.0.0.0 nctrk.abmail.com.br
 0.0.0.0 track.e7r.com.br
+0.0.0.0 trk.absuite.com.br
 0.0.0.0 webstats.sapo.pt
 0.0.0.0 profiling.avandor.com
 0.0.0.0 top.skyzone.ro
@@ -5071,6 +5086,7 @@
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.nuskin.com
 0.0.0.0 beacon.search.yahoo.com
+0.0.0.0 beacon.toyota.co.jp
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 beacon.www.theguardian.com
@@ -6072,6 +6088,7 @@
 0.0.0.0 g.bitmag.com.br
 0.0.0.0 log.r7.com
 0.0.0.0 logger.rm.uol.com.br
+0.0.0.0 logger.uol.com.br
 0.0.0.0 metrics.uol.com.br
 0.0.0.0 tm.jsuol.com.br
 0.0.0.0 tm.uol.com.br
