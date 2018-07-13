@@ -99,6 +99,7 @@ echo "Installing to system.."
 sleep 1
 sudo bash -c "chmod 644 /etc/hosts"
 sudo bash -c "chown 0:0 /etc/hosts"
+sudo bash -c "sed -i '34i 127.0.0.1 $hostname' /etc/hosts"
 echo "Done !!"
 
 elif [ "$option" -eq 2 ]; then
@@ -119,6 +120,7 @@ echo "Installing to system.."
 sleep 1
 sudo bash -c "chmod 644 /etc/hosts"
 sudo bash -c "chown 0:0 /etc/hosts"
+sudo bash -c "sed -i '34i 127.0.0.1 $hostname' /etc/hosts"
 echo "Done !!"
 
 elif [ "$option" -eq 3 ]; then
@@ -139,6 +141,7 @@ echo "Installing to system.."
 sleep 1
 sudo bash -c "chmod 644 /etc/hosts"
 sudo bash -c "chown 0:0 /etc/hosts"
+sudo bash -c "sed -i '34i 127.0.0.1 $hostname' /etc/hosts"
 echo "Done !!"
 
 elif [ "$option" -eq 4 ]; then
@@ -159,6 +162,7 @@ echo "Installing to system.."
 sleep 1
 sudo bash -c "chmod 644 /etc/hosts"
 sudo bash -c "chown 0:0 /etc/hosts"
+sudo bash -c "sed -i '34i 127.0.0.1 $hostname' /etc/hosts"
 echo "Done !!"
 
 elif [ "$option" -eq 5 ]; then
@@ -179,6 +183,7 @@ echo "Installing to system.."
 sleep 1
 sudo bash -c "chmod 644 /etc/hosts"
 sudo bash -c "chown 0:0 /etc/hosts"
+sudo bash -c "sed -i '34i 127.0.0.1 $hostname' /etc/hosts"
 echo "Done !!"
 
 elif [ "$option" -eq 6 ]; then
@@ -199,6 +204,7 @@ echo "Installing to system.."
 sleep 1
 sudo bash -c "chmod 644 /etc/hosts"
 sudo bash -c "chown 0:0 /etc/hosts"
+sudo bash -c "sed -i '34i 127.0.0.1 $hostname' /etc/hosts"
 echo "Done !!"
 
 elif [ "$option" -eq 7 ]; then
@@ -219,6 +225,7 @@ echo "Installing to system.."
 sleep 1
 sudo bash -c "chmod 644 /etc/hosts"
 sudo bash -c "chown 0:0 /etc/hosts"
+sudo bash -c "sed -i '34i 127.0.0.1 $hostname' /etc/hosts"
 echo "Done !!"
 
 elif [ "$option" -eq 8 ]; then
@@ -239,6 +246,7 @@ echo "Installing to system.."
 sleep 1
 sudo bash -c "chmod 644 /etc/hosts"
 sudo bash -c "chown 0:0 /etc/hosts"
+sudo bash -c "sed -i '34i 127.0.0.1 $hostname' /etc/hosts"
 echo "Done !!"
 
 elif [ "$option" -eq 9 ]; then
@@ -259,6 +267,7 @@ echo "Installing to system.."
 sleep 1
 sudo bash -c "chmod 644 /etc/hosts"
 sudo bash -c "chown 0:0 /etc/hosts"
+sudo bash -c "sed -i '34i 127.0.0.1 $hostname' /etc/hosts"
 echo "Done !!"
 
 elif [ "$option" -eq 17 ]; then
@@ -269,9 +278,9 @@ sudo bash -c "rm -rf /etc/hosts"
 echo "Restoring Default hosts file.."
 sleep 1
 sudo bash -c "cat >> /etc/hosts <<EOF
-# Energized - ad.porn.malware blocking.
-# A merged collection of hosts from reputable sources.
-# https://ador.chorompotro.com/energized
+# Welcome to the HOSTS file !!
+# This file contains entries that maps hostnames to IP addresses.
+# Mostly used for ad-blocking stuff at system level
 
 127.0.0.1 localhost
 0.0.0.0   0.0.0.0
