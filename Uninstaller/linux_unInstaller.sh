@@ -7,6 +7,7 @@ clear
 update="`date -r /etc/hosts`"
 size="`stat -c %s /etc/hosts` bytes"
 size_humanfriendly="`ls -lah /etc/hosts | awk '{print $5}'`B"
+hostname="`hostname`"
 
 # Check if Energized is applied or not
 	[ -f /etc/hosts ];
@@ -37,7 +38,7 @@ elif grep -q "Energized Ultimate" /etc/hosts; then
 elif grep -q "Energized Unified" /etc/hosts; then
 	echeck="Unified Protection"
 else
-	echeck="No Pack Detected!"
+	echeck="No Energized-hosts"
 fi
 
 # Welcome Screen
@@ -49,13 +50,14 @@ clear
 
 # Main Screen
 echo "Energized ad-blocker Un/Installer"
-
+echo ""
+echo ""
 echo "You have currently installed $eonoff
 Your hosts file was updated on $update
 and is $size or $size_humanfriendly in size..
 
-Choose your package :
-(You have currently installed the $echeck package)
+Choose your package : $echeck pack is currently installed in system
+
  1. Energized - Adware
  2. Energized Malware - Malware
  3. Energized Porn - PornSites and PornAds
@@ -267,7 +269,13 @@ sudo bash -c "rm -rf /etc/hosts"
 echo "Restoring Default hosts file.."
 sleep 1
 sudo bash -c "cat >> /etc/hosts <<EOF
-127.0.0.1		    localhost
+# Energized - ad.porn.malware blocking.
+# A merged collection of hosts from reputable sources.
+# https://ador.chorompotro.com/energized
+
+127.0.0.1 localhost
+0.0.0.0   0.0.0.0
+127.0.0.1 $hostname
 EOF"
 echo "Applying proper permissions.."
 sleep 1
