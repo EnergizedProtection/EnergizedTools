@@ -12,9 +12,11 @@ hostname="`hostname`"
 # Check if Energized is applied or not
 	[ -f /etc/hosts ];
 if grep -q adroitadorkhan.github.io /etc/hosts; then
-	eonoff="Energized ad-blocking hosts , Good !!"
+	eonoff="ON"
+elif grep -q 0.0.0.0 /etc/hosts; then
+	eonoff="OFF (unknown ad-blocker)"
 else
-	eonoff="some other hosts or disabled ad-blocking , who knows ??"
+        eonoff="OFF (no ad-blocker)"
 fi
 
 # If Energized is enabled, which pack it is
@@ -52,9 +54,10 @@ clear
 echo "Energized ad-blocker Un/Installer"
 echo ""
 echo ""
-echo "You have currently installed $eonoff
-Your hosts file was updated on $update
-and is $size or $size_humanfriendly in size..
+echo "
+STATUS : $eonoff
+LAST UPDATED : $update
+SIZE : $size ($size_humanfriendly)
 
 Choose your package : $echeck pack is currently installed in system
 
@@ -283,7 +286,6 @@ sudo bash -c "cat >> /etc/hosts <<EOF
 # Mostly used for ad-blocking stuff at system level
 
 127.0.0.1 localhost
-0.0.0.0   0.0.0.0
 127.0.0.1 $hostname
 EOF"
 echo "Applying proper permissions.."
