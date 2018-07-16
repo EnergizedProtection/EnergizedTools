@@ -4,10 +4,24 @@ while true; do
 clear
 
 # Some Variables
-update="`date -r /etc/hosts`"
+update="`sed -n 11p /etc/hosts | cut -c17-`"
+version="`sed -n 6p /etc/hosts | cut -c12-`"
+hosts="`sed -n 12p /etc/hosts | cut -c18-` domains"
 size="`stat -c %s /etc/hosts` bytes"
 size_humanfriendly="`ls -lah /etc/hosts | awk '{print $5}'`B"
 hostname="`hostname`"
+
+# NOT MY HOSTS , NOT MY PROBLEM
+	[ -f /etc/hosts ];
+if grep -q adroitadorkhan.github.io /etc/hosts; then
+    update="`sed -n 11p /etc/hosts | cut -c17-`"
+    hosts="`sed -n 12p /etc/hosts | cut -c18-` domains"
+    version="`sed -n 6p /etc/hosts | cut -c12-`"
+else
+    update="NOT MY HOSTS"
+    hosts="NOT MY PROBLEM"
+    version="NOT MY HOSTS , NOT MY PROBLEM"
+fi
 
 # Check if Energized is applied or not
 	[ -f /etc/hosts ];
@@ -43,20 +57,13 @@ else
 	echeck="No Energized-hosts"
 fi
 
-# Welcome Screen
-echo "Energized - Hosts"
-sleep 1
-echo "ad.porn.malware blocking"
-sleep 2
-clear
-
 # Main Screen
-echo "Energized ad-blocker Un/Installer"
-echo ""
-echo ""
+echo "Energized4Linux"
+echo "Hosts Un/Installer"
 echo "
 STATUS : $eonoff
-LAST UPDATED : $update
+VERSION : $version
+LAST UPDATED : $update , $hosts
 SIZE : $size ($size_humanfriendly)
 
 Choose your package : $echeck pack is currently installed in system
